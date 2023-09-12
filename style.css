@@ -1,0 +1,152 @@
+/* Reset some default styling */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Styling for navigation */
+nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Styling for buttons */
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Styling for tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Styling for form fields */
+input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styling for radio buttons */
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+/* Styling for submit button */
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+/* Reset some default styling */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Styling for the form container */
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styling for form field labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Styling for input fields */
+input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styling for radio button labels */
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+/* Styling for submit button */
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+/* Styling for the form footer */
+fieldset {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+/* Styling for error messages */
+.error-message {
+    color: red;
+    margin-top: 5px;
+}
